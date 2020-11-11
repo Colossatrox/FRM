@@ -4,3 +4,14 @@ C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaModeloBryan\obj\Debug\
 C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaModeloBryan\obj\Debug\CapaModeloBryan.csproj.CoreCompileInputs.cache
 C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaModeloBryan\obj\Debug\CapaModeloBryan.dll
 C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaModeloBryan\obj\Debug\CapaModeloBryan.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaModeloBryan\bin\Debug\CapaModeloBryan.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaModeloBryan\bin\Debug\CapaModeloBryan.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaModeloBryan\obj\Debug\CapaModeloBryan.csprojAssemblyReference.cache
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaModeloBryan\obj\Debug\CapaModeloBryan.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaModeloBryan\obj\Debug\CapaModeloBryan.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaModeloBryan\bin\Debug\CapaModeloBryan.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaModeloBryan\bin\Debug\CapaModeloBryan.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaModeloBryan\obj\Debug\CapaModeloBryan.csprojAssemblyReference.cache
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaModeloBryan\obj\Debug\CapaModeloBryan.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaModeloBryan\obj\Debug\CapaModeloBryan.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaModeloBryan\obj\Debug\CapaModeloBryan.pdb

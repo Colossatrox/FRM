@@ -101,7 +101,7 @@ namespace CapaVistaBryan.Mantenimientos
             try
             {
                 //revisa que el nombre de la cuenta este escrito y este seleccionado el tipo de cuenta, de lo contrario no deja avanzar
-                if (txtNombreCuenta.Text == "")
+                if (txtNombreCuenta.Text.Length == 0)
                 {
                     MessageBox.Show("Debe de ingresar el nombre de la cuenta", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return;
@@ -220,6 +220,20 @@ namespace CapaVistaBryan.Mantenimientos
         private void btnAyuda_Click(object sender, EventArgs e)
         {
             Help.ShowHelp(this, "AyudaBryan/AyudaBryan.chm", "CuentasContables.html");
+        }
+
+        private void txtNombreCuenta_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            //revisa que puede ingresar letras, tecla de borrar o espacio
+            if (Char.IsLetter(e.KeyChar) || e.KeyChar == (char)Keys.Back || e.KeyChar == (char)Keys.Space)
+            {
+                e.Handled = false;
+            }
+            else
+            {
+                //el resto de teclas pulsadas se desactivan
+                e.Handled = true;
+            }
         }
 
     }

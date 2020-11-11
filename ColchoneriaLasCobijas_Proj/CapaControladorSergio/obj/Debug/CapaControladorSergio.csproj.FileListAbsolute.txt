@@ -7,3 +7,11 @@ C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaControladorSergio\bin\
 C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaControladorSergio\bin\Debug\CapaModeloSergio.pdb
 C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaControladorSergio\obj\Debug\CapaControladorSergio.csprojAssemblyReference.cache
 C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaControladorSergio\obj\Debug\CapaControladorSergio.csproj.CopyComplete
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorSergio\bin\Debug\CapaControladorSergio.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorSergio\bin\Debug\CapaControladorSergio.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorSergio\bin\Debug\CapaModeloSergio.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorSergio\bin\Debug\CapaModeloSergio.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorSergio\obj\Debug\CapaControladorSergio.csprojAssemblyReference.cache
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorSergio\obj\Debug\CapaControladorSergio.csproj.CopyComplete
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorSergio\obj\Debug\CapaControladorSergio.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorSergio\obj\Debug\CapaControladorSergio.pdb

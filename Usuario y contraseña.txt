@@ -1,0 +1,6 @@
+Usuario: JLOPEZ
+Contraseña: JLOPEZ
+
+usuario para ver opciones de seguridad:
+Usuarios: sistema
+Contraseña: si

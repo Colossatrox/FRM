@@ -67,6 +67,7 @@
             this.txtNombreCuenta.Name = "txtNombreCuenta";
             this.txtNombreCuenta.Size = new System.Drawing.Size(338, 25);
             this.txtNombreCuenta.TabIndex = 0;
+            this.txtNombreCuenta.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtNombreCuenta_KeyPress);
             // 
             // lblNombre
             // 
@@ -154,7 +155,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frmCuentas";
-            this.Text = "Cuentas Contables";
+            this.Text = "Mantenimiento - Cuentas Contables -1310";
             this.Load += new System.EventHandler(this.frmCuentas_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

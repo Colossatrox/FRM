@@ -7,3 +7,20 @@ C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaControladorBryan\obj\D
 C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaControladorBryan\bin\Debug\CapaModeloBryan.dll
 C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaControladorBryan\bin\Debug\CapaModeloBryan.pdb
 C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaControladorBryan\obj\Debug\CapaControladorBryan.csproj.CopyComplete
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorBryan\bin\Debug\CapaControladorBryan.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorBryan\bin\Debug\CapaControladorBryan.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorBryan\bin\Debug\CapaModeloBryan.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorBryan\bin\Debug\CapaModeloBryan.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorBryan\obj\Debug\CapaControladorBryan.csprojAssemblyReference.cache
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorBryan\obj\Debug\CapaControladorBryan.csproj.CopyComplete
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorBryan\obj\Debug\CapaControladorBryan.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaControladorBryan\obj\Debug\CapaControladorBryan.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaControladorBryan\obj\Debug\CapaControladorBryan.csprojAssemblyReference.cache
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaControladorBryan\obj\Debug\CapaControladorBryan.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaControladorBryan\obj\Debug\CapaControladorBryan.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaControladorBryan\obj\Debug\CapaControladorBryan.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaControladorBryan\bin\Debug\CapaControladorBryan.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaControladorBryan\bin\Debug\CapaControladorBryan.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaControladorBryan\bin\Debug\CapaModeloBryan.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaControladorBryan\bin\Debug\CapaModeloBryan.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaControladorBryan\obj\Debug\CapaControladorBryan.csproj.CopyComplete

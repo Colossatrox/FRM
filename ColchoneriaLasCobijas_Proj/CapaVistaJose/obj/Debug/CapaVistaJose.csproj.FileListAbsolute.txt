@@ -28,3 +28,126 @@ C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\Cr
 C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\stdole.dll
 C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaControladorJose.pdb
 C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.csproj.CopyComplete
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaVistaJose.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaVistaJose.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaControladorJose.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaVistaNavegador.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaVistaSeguridad.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaVistaReporteador.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaVista.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaControladorNavegador.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaControladorSeguridad.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaModeloSeguridad.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaModeloReporteador.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaControladorReporteador.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaControlador.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaModeloNavegador.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaModelo.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\stdole.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaControladorJose.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaVistaNavegador.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaVistaSeguridad.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaVistaReporteador.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaVista.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaControladorNavegador.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaControladorSeguridad.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaModeloSeguridad.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaModeloReporteador.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaControladorReporteador.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaControlador.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaModeloNavegador.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaModelo.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.csprojAssemblyReference.cache
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.Mantenimientos.frmCuentaBancaria.resources
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.Mantenimientos.frmMoneda.resources
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.Mantenimientos.frmPropietario.resources
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.Mantenimientos.frmTipoMovimientoBancario.resources
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.Mantenimientos.frmTransacciones.resources
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.csproj.GenerateResource.cache
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.csproj.CopyComplete
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.Mantenimientos.MantenimientosBancos1302.resources
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.Mantenimientos.frmDisponibilidadDiaria.resources
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.Mantenimientos.frmPeticionPoliza.resources
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.Properties.Resources.resources
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaVistaJose.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaVistaJose.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaControladorJose.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaVistaNavegador.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaVistaSeguridad.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaVistaReporteador.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaVista.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaControladorNavegador.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaControladorSeguridad.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaModeloSeguridad.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaModeloReporteador.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaControladorReporteador.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaControlador.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaModeloNavegador.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaModelo.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\stdole.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaControladorJose.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaVistaNavegador.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaVistaSeguridad.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaVistaReporteador.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaVista.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaControladorNavegador.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaControladorSeguridad.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaModeloSeguridad.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaModeloReporteador.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaControladorReporteador.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaControlador.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaModeloNavegador.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaModelo.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.csprojAssemblyReference.cache
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.Mantenimientos.MantenimientosBancos1302.resources
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.Mantenimientos.frmCuentaBancaria.resources
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.Mantenimientos.frmDisponibilidadDiaria.resources
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.Mantenimientos.frmMoneda.resources
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.Mantenimientos.frmPeticionPoliza.resources
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.Mantenimientos.frmPropietario.resources
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.Mantenimientos.frmTipoMovimientoBancario.resources
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.Mantenimientos.frmTransacciones.resources
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.Properties.Resources.resources
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.csproj.GenerateResource.cache
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.csproj.CopyComplete
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj\CapaVistaJose\obj\Debug\CapaVistaJose.pdb

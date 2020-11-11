@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9F454BCD-DF91-4B10-8DC2-79D3BAA280E4}</ProjectGuid>
+    <ProjectGuid>{D60F1904-F44D-458A-9AB0-9D38782F49C1}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>ColchoneriaLasCobijas_Proj_MDI</RootNamespace>
     <AssemblyName>ColchoneriaLasCobijas_Proj_MDI</AssemblyName>
@@ -35,6 +35,12 @@
   <ItemGroup>
     <Reference Include="CapaVistaBryan">
       <HintPath>..\..\ColchoneriaLasCobijas_Proj\CapaVistaBryan\bin\Debug\CapaVistaBryan.dll</HintPath>
+    </Reference>
+    <Reference Include="CapaVistaJose">
+      <HintPath>..\..\ColchoneriaLasCobijas_Proj\CapaVistaJose\bin\Debug\CapaVistaJose.dll</HintPath>
+    </Reference>
+    <Reference Include="CapaVistaSeguridad">
+      <HintPath>..\Objeto_Seguridad-master\ObjetoSeguridad\CapaVistaSeguridad\bin\Debug\CapaVistaSeguridad.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

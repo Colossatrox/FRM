@@ -1,46 +1,132 @@
-C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.csprojAssemblyReference.cache
-C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.MDIFRM.resources
-C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.Properties.Resources.resources
-C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.csproj.GenerateResource.cache
-C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.csproj.CoreCompileInputs.cache
-C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\ColchoneriaLasCobijas_Proj_MDI.exe.config
-C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\ColchoneriaLasCobijas_Proj_MDI.exe
-C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\ColchoneriaLasCobijas_Proj_MDI.pdb
-C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.exe
-C:\Users\bryan\Desktop\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.pdb
-<<<<<<< HEAD
-=======
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\ColchoneriaLasCobijas_Proj_MDI.exe.config
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\ColchoneriaLasCobijas_Proj_MDI.exe
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\ColchoneriaLasCobijas_Proj_MDI.pdb
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVistaBryan.dll
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.Shared.dll
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportSource.dll
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaControladorBryan.dll
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaModeloBryan.dll
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\stdole.dll
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVistaBryan.pdb
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaControladorBryan.pdb
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaModeloBryan.pdb
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.csprojAssemblyReference.cache
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.MDIFRM.resources
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.Properties.Resources.resources
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.csproj.GenerateResource.cache
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.csproj.CoreCompileInputs.cache
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.csproj.CopyComplete
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.exe
-D:\U\4_AÑO_2_SEM\ANALISIS 2\SEGUNDO PROYECTO\PROYECTO FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.pdb
->>>>>>> BRYAN_AGUIRRE
+C:\Users\jose lopez\Desktop\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\ColchoneriaLasCobijas_Proj_MDI.exe.config
+C:\Users\jose lopez\Desktop\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\ColchoneriaLasCobijas_Proj_MDI.exe
+C:\Users\jose lopez\Desktop\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\ColchoneriaLasCobijas_Proj_MDI.pdb
+C:\Users\jose lopez\Desktop\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.csprojAssemblyReference.cache
+C:\Users\jose lopez\Desktop\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.MDIFRM.resources
+C:\Users\jose lopez\Desktop\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.Properties.Resources.resources
+C:\Users\jose lopez\Desktop\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.csproj.GenerateResource.cache
+C:\Users\jose lopez\Desktop\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.exe
+C:\Users\jose lopez\Desktop\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\ColchoneriaLasCobijas_Proj_MDI.exe.config
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\ColchoneriaLasCobijas_Proj_MDI.exe
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\ColchoneriaLasCobijas_Proj_MDI.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVistaBryan.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVistaJose.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVistaSeguridad.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaControladorBryan.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVistaNavegador.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaControladorSeguridad.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaModeloSeguridad.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaModeloBryan.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVistaReporteador.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVista.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaControladorNavegador.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaModeloReporteador.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaControladorReporteador.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaControlador.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaModeloNavegador.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\stdole.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaModelo.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVistaBryan.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVistaJose.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVistaSeguridad.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaControladorBryan.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVistaNavegador.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaControladorSeguridad.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaModeloSeguridad.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaModeloBryan.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVistaReporteador.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVista.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaControladorNavegador.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaModeloReporteador.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaControladorReporteador.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaControlador.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaModeloNavegador.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaModelo.pdb
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.csprojAssemblyReference.cache
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.MDIFRM.resources
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.Properties.Resources.resources
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.csproj.GenerateResource.cache
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.csproj.CopyComplete
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.exe
+C:\Users\jose lopez\Documents\GitHub\FRM\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\ColchoneriaLasCobijas_Proj_MDI.exe.config
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\ColchoneriaLasCobijas_Proj_MDI.exe
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\ColchoneriaLasCobijas_Proj_MDI.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVistaBryan.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVistaJose.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVistaSeguridad.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaControladorBryan.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVistaNavegador.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaControladorSeguridad.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaModeloSeguridad.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaModeloBryan.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVistaReporteador.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVista.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaControladorNavegador.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaModeloReporteador.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaControladorReporteador.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaControlador.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaModeloNavegador.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\stdole.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaModelo.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVistaBryan.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVistaJose.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVistaSeguridad.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaControladorBryan.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVistaNavegador.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaControladorSeguridad.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaModeloSeguridad.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaModeloBryan.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVistaReporteador.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaVista.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaControladorNavegador.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaModeloReporteador.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaControladorReporteador.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaControlador.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaModeloNavegador.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\bin\Debug\CapaModelo.pdb
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.csprojAssemblyReference.cache
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.MDIFRM.resources
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.Properties.Resources.resources
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.csproj.GenerateResource.cache
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.csproj.CopyComplete
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.exe
+C:\Users\bryan\Desktop\FRM-master\FRM-master\ColchoneriaLasCobijas_Proj_MDI\ColchoneriaLasCobijas_Proj_MDI\obj\Debug\ColchoneriaLasCobijas_Proj_MDI.pdb
